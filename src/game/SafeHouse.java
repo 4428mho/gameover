@@ -1,4 +1,4 @@
-package oyun;
+package game;
 
 public class SafeHouse extends NormalLoc{
     SafeHouse(Player player) {

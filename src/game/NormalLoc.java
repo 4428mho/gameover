@@ -1,4 +1,4 @@
-package oyun;
+package game;
 
 public abstract class NormalLoc extends Location{
 

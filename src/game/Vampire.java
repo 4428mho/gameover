@@ -1,4 +1,4 @@
-package oyun;
+package game;
 
 public class Vampire extends Obstacle{
     public Vampire(){

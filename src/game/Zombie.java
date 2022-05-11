@@ -1,4 +1,4 @@
-package oyun;
+package game;
 
 public class Zombie extends Obstacle{
     public Zombie(){
